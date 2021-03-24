@@ -1,0 +1,38 @@
+.Vote {
+    text-align: center;
+}
+
+.Vote input {
+    width: 500px;
+    margin: 10px;
+    height: 20px;
+}
+
+.Vote button {
+    background-color: #eee;
+    padding: 10px 40px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.VotingOption {
+    border: 1px solid #ccc;
+    width: 500px;
+    margin: 30px auto;
+    padding: 16px;
+    border-radius: 10px;
+}
+
+.voteGreen {
+    border: 1px solid green;
+    padding: 10px;
+    margin: 10px auto;
+    width: 50%;
+}
+
+.voteRed {
+    border: 1px solid red;
+    padding: 10px;
+    margin: 10px auto;
+    width: 50%;
+}

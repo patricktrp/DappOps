@@ -1,0 +1,16 @@
+.EditVoting {
+    text-align: center;
+}
+
+.EditVoting input {
+    width: 500px;
+    margin: 10px;
+    height: 20px;
+}
+
+.EditVoting button {
+    background-color: #eee;
+    padding: 10px 40px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
